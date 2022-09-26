@@ -28,6 +28,7 @@ class Development(Config):
 
   # Custom Command Handler for sudo users.
   SUDO_HANDLER = "!"
+  SUDO_USERS = 
 
 
 # end of required config
