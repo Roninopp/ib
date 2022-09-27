@@ -28,7 +28,8 @@ class Development(Config):
 
   # Custom Command Handler for sudo users.
   SUDO_HANDLER = "!"
-  SUDO_USERS = 
+  # if u want to add sudo then remove #
+  #SUDO_USERS = []
 
 
 # end of required config
